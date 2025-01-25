@@ -87,11 +87,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
-For questions or feedback, please contact **Pawn Kallan** at [your-email@example.com].
+For questions or feedback, please contact me at pavankalyan2147@gmail.com.
 
